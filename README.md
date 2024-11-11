@@ -12,7 +12,8 @@ Target Audience:
 Vivid Razor is designed for players who are drawn to games with philosophical depth, emotional storytelling, and complex gameplay mechanics. Fans of games like Disco Elysium, Outer Wilds, Hades, and Celeste—titles that blend narrative innovation with engaging mechanics—will find much to love here. The game also appeals to fans of modular crafting, cyberpunk aesthetics, and psychological exploration.
 
 Key Features:
-	1.	Modular Ship-Building:
+
+1.	Modular Ship-Building:
 	•	Players can dynamically attach and detach ship modules to adapt to different environments and enemies. Each module affects the ship’s abilities, speed, and durability, while also subtly influencing the crew’s mental state and relationships.
  
  •	Emotional connections are deepened by the psychological impacts of ship modifications, as modules can heighten trust, fear, or even trigger hallucinations among the crew.
