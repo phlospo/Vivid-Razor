@@ -1,5 +1,5 @@
 # Vivid-Razor
-A chaotic tile-based ship-building game set in the year 3000
+A chaotic tile-based ship-building game.
 
 Storyline:
 In the year 2999, Saturn’s rings have become a treacherous junkyard where scavengers, corporate forces, and cultists vie for control over ancient technologies and psychoactive substances. As a lone scavenger, the player’s crew uncovers a mysterious signal that leads them deep into the Vivid Razor, a region of Saturn’s rings where reality is warped by mind-altering compounds.
